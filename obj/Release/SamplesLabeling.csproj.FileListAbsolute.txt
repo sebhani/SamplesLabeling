@@ -1,0 +1,22 @@
+C:\Users\hani-\source\repos\SamplesLabeling\bin\Release\Microbiology Receiving.exe.config
+C:\Users\hani-\source\repos\SamplesLabeling\bin\Release\Microbiology Receiving.exe
+C:\Users\hani-\source\repos\SamplesLabeling\bin\Release\Microbiology Receiving.pdb
+C:\Users\hani-\source\repos\SamplesLabeling\bin\Release\Newtonsoft.Json.dll
+C:\Users\hani-\source\repos\SamplesLabeling\bin\Release\Newtonsoft.Json.xml
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\MainWindow.g.cs
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\App.g.cs
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\Microbiology Receiving_MarkupCompile.cache
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\Microbiology Receiving_MarkupCompile.lref
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\MainWindow.baml
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\Microbiology Receiving.g.resources
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\SamplesLabeling.Properties.Resources.resources
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\SamplesLabeling.csproj.GenerateResource.cache
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\SamplesLabeling.csproj.CoreCompileInputs.cache
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\SamplesLabeling.csproj.CopyComplete
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\Microbiology Receiving.exe
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\Microbiology Receiving.pdb
+C:\Users\hani-\source\repos\SamplesLabeling\bin\Release\Microbiology Receiving.exe.manifest
+C:\Users\hani-\source\repos\SamplesLabeling\bin\Release\Microbiology Receiving.application
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\SamplesLabeling.csprojAssemblyReference.cache
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\Microbiology Receiving.exe.manifest
+C:\Users\hani-\source\repos\SamplesLabeling\obj\Release\Microbiology Receiving.application
