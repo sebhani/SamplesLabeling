@@ -20,6 +20,6 @@ namespace SamplesLabeling
 
         public static readonly IDictionary<string, int> areaC = new Dictionary<string, int>  {{"Blood", 4}, {"Stool", 4}, {"Rectal", 2}};
 
-        public static readonly IDictionary<string, int> areaD = new Dictionary<string, int> { };
+        public static readonly IDictionary<string, int> areaD = new Dictionary<string, int> {{ "Urine", 1}};
     }
 }
